@@ -8,7 +8,7 @@ Airbrush is a tool built with opencv, to draw with every day objects. The tracke
 `virtualenv venv`
 `source venv/bin/activate`
 3. Install dependencies: `pip3 install -r requirements.txt`
-4. Run the file: `python new_tracker.py`
+4. Run the file: `python airbrush.py`
 
 ## Application usage
 Keyboard Input
