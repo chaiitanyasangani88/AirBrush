@@ -12,12 +12,12 @@ Airbrush is a tool built with opencv, to draw with every day objects. The tracke
 
 ## Application usage
 Keyboard Input
-`s`: Select the region of interest
-`t`: Toggle between write=True and write=False
-`c`: Clear all the drawn items
-`q`: quit
+- `s`: Select the region of interest
+- `t`: Toggle between write=True and write=False
+- `c`: Clear all the drawn items
+- `q`: quit
 
 colours:
-`r`: red
-`g`: green
-`b`: blue
+- `r`: red
+- `g`: green
+- `b`: blue
