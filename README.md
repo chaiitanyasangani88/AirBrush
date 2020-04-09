@@ -21,3 +21,7 @@ colours:
 - `r`: red
 - `g`: green
 - `b`: blue
+
+## Demo
+
+[Demo](https://github.com/chaiitanyasangani88/AirBrush/blob/master/images/demo.gif)
