@@ -19,7 +19,7 @@ all_points = {}
 # pts = [] # deque(maxlen=100)
 write = True
 counter = 0
-color = (0, 0, 255)
+color = (0, 0, 0)
 
 
 def get_current_frame(vs):
@@ -167,6 +167,9 @@ while vs.isOpened():
 
         if key == ord('r'):
             color = (0, 0, 255)
+
+        if key == ord('l'):
+            color = (0, 0, 0)
 
         if write:
             try:
