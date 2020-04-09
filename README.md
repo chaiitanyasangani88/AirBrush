@@ -24,4 +24,4 @@ colours:
 
 ## Demo
 
-[Demo](https://github.com/chaiitanyasangani88/AirBrush/blob/master/images/demo.gif)
+<img src="https://github.com/chaiitanyasangani88/AirBrush/blob/master/images/demo.gif">
